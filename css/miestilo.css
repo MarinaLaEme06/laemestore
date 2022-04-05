@@ -1,0 +1,36 @@
+
+
+.fondo-publicidad{
+    background-color: black;
+    height: 15px;
+}
+
+.text-rosa {
+    color: rgb(221, 145, 205);
+}
+
+.separador{
+    height: 15px;
+}
+
+.margin-left-12 {
+    margin-left: 12px;
+}
+
+.margin-right-12 {
+    margin-right: 12px;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+   
+  .container * {
+    box-sizing: border-box;
+  }
+  
+  
+  
+  
