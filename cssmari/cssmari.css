@@ -1,0 +1,176 @@
+/* header .navbar{
+    height: 64px;
+    background: #f8bbd0
+}
+ */
+.logo{
+    width: 60px;
+    margin: 10px;
+    margin-top: 13px;
+}
+.navbar-brand{
+    padding-top: 15px;
+}
+
+/*
+ul{
+    margin-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+ nav ul{
+float: right;
+margin-right: 20px;
+padding: 20px;
+}
+
+nav ul li{
+    display:inline-block;
+}
+
+.navbar ul li a{
+    padding: 10px;
+    color:#971a66;
+    font-weight:lighter;
+    text-decoration: none;
+}
+ */
+    
+.navmari{
+    background-color: #fce4ec;
+    color:#971a66;
+    padding: 0;
+}
+
+.presentacion{
+    width: 100%;
+    background: url(../images/bolsaeme.png)center center;
+    background-size: cover;
+    display: flex;
+    justify-content: right;
+    align-items:flex-end;
+    
+}
+
+
+
+.centrado{
+    text-align: center;
+}
+
+.espacios{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* .splash h2{
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    margin-top: 100px ;
+    color: #971a66;
+    margin-left: auto;
+    padding: 100px;
+    padding-right: 0px;
+    font-size: 89px;
+
+}
+ */
+
+.home-tittle {
+    font-family: 'Pacifico', cursive;
+    margin-top: 100px ;
+    color: #971a66;
+    margin-left: 90px;
+    padding: 86px;
+    padding-right: 0px;
+    margin: 10px;
+    float: right;
+} 
+
+.botontienda{
+    margin: 20px;
+    
+    
+}
+.btntienda{
+    background-color: #f7aff7;
+    color:#971a66;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    
+
+    
+}
+
+
+.sin-deco{
+    text-decoration: none;
+    color:#971a66;
+}
+
+.description{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color:#971a66;
+}
+
+.content{
+    padding:20px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+.content .btn{
+    background-color: #f7aff7;
+    color:#971a66;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    float: right;
+}
+
+
+
+.splash3{
+    width: 100%;
+    height:70vh;
+    background: url(../images/mayorista.png)center center;
+    background-size: cover;
+}
+
+.mayorista h1{
+    color:#971a66;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.mayorista h4{
+    color:#971a66;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 40px;
+}
+
+.acercademi h1{
+    color:#971a66;
+    font-family: 'Pacifico', cursive;
+
+}
+.mayorista p{
+    color:#971a66;
+    font-family: 'Montserrat', sans-serif;
+}
+.contacto{
+    padding-left: 20px;
+}
+
+.card-body{
+    margin-left: 14px;
+    color:#971a66;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.textofooter{
+    color:#971a66;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
